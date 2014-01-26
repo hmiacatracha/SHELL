@@ -2,12 +2,6 @@
 #include "algoritmos.h"
 #include "cmd.h"
 
-/**
- NOMBRES:
- HEIDY MABEL IZAGUIRRE
- CLASE:   2.2.1 GEI
- HORARIO: 8:30-10:30 JUEVES
- **/
 
 int trocearCadena(char *cadena, char *trozos[]) {
 	int i = 1;
