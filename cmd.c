@@ -27,8 +27,6 @@ double variableGlobal3 = 6.5;
  }*/
 
 void cmdAutores(void) {
-	printf("%16s %s\n", " ", "Authors");
-	printf("%8s %s\n", " ", "UXIA PONTE VILLAVERDE");
 	printf("%8s %s\n", " ", "HEIDY MABEL IZAGUIRRE");
 }
 
